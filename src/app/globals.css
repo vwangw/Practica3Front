@@ -95,7 +95,6 @@ a {
 }
 
 .error {
-  color: #ef4444;
   background-color: #fee2e2;
   padding: 1rem;
   border-radius: 6px;
@@ -159,9 +158,7 @@ a {
 }
 
 .btn-favorite {
-  background-color: white !important;
-  color: #eab308 !important;
- 
+  background-color: white;
 }
 
 .page-detail {
@@ -245,6 +242,4 @@ a {
 
 .favoritos-actions button:nth-child(2) {
   background-color: white;
-  color: #ef4444;
-  border: 1px solid #ddc80f;
 }
