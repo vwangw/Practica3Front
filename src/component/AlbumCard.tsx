@@ -1,4 +1,4 @@
-"use client";
+'use client';
 
 import { Album } from "@/types";
 import { useRouter } from "next/navigation";
